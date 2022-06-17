@@ -1,5 +1,3 @@
-# defense
-
 # How to install steamapex
 You may need bs4 library.
 
